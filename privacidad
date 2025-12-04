@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Política de Privacidad - SSDemo</title>
+  <meta name="viewport" content="width=deviceWidth, initial-scale=1.0" />
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      line-height: 1.6;
+      background: #f5f5f5;
+      color: #222;
+    }
+    h1, h2 {
+      color: #111;
+    }
+    a {
+      color: #0066cc;
+    }
+  </style>
+</head>
+<body>
+  <h1>Política de Privacidad de SSDemo</h1>
+  <p><strong>Fecha de última actualización:</strong> 04/12/2025</p>
+
+  <h2>1. Responsable del Tratamiento</h2>
+  <p>
+    El responsable del tratamiento de tus datos personales es SSDemo.
+    Puedes contactar en:
+    <a href="mailto:contacto@ssdemo.app">contacto@ssdemo.app</a>.
+  </p>
+
+  <h2>2. Datos que Recopilamos</h2>
+  <ul>
+    <li><strong>Datos de cuenta:</strong> nombre, correo electrónico y datos similares.</li>
+    <li><strong>Datos de uso:</strong> acciones que realizas en la app, campañas creadas, fecha y hora de acceso.</li>
+    <li><strong>Datos técnicos:</strong> dirección IP, tipo de dispositivo, sistema operativo, versión de la aplicación.</li>
+    <li><strong>Datos de terceros:</strong> información procedente de plataformas de terceros (por ejemplo, TikTok) cuando conectas tus cuentas, según tus permisos.</li>
+  </ul>
+
+  <h2>3. Finalidades del Tratamiento</h2>
+  <p>Utilizamos tus datos para:</p>
+  <ul>
+    <li>Prestar y mantener el servicio de gestión de campañas de marketing.</li>
+    <li>Permitir la integración con plataformas de terceros como TikTok.</li>
+    <li>Mejorar el funcionamiento, rendimiento y seguridad de SSDemo.</li>
+    <li>Comunicarnos contigo sobre avisos importantes, soporte y actualizaciones.</li>
+    <li>Cumplir obligaciones legales o regulatorias.</li>
+  </ul>
+
+  <h2>4. Bases Legales</h2>
+  <p>
+    Tratamos tus datos en base a la ejecución del contrato (prestación del Servicio), nuestros intereses legítimos
+    (mejora y seguridad) y, cuando sea necesario, tu consentimiento (por ejemplo, para ciertas comunicaciones comerciales).
+  </p>
+
+  <h2>5. Compartición de Datos</h2>
+  <p>Podemos compartir datos con:</p>
+  <ul>
+    <li>Proveedores que nos prestan servicios tecnológicos (hosting, análisis, correo, etc.).</li>
+    <li>Plataformas de terceros como TikTok para ejecutar tus campañas, según tu configuración y autorización.</li>
+    <li>Autoridades competentes, cuando la ley lo exija o sea necesario para proteger nuestros derechos o los de terceros.</li>
+  </ul>
+  <p>No vendemos tus datos personales.</p>
+
+  <h2>6. Transferencias Internacionales</h2>
+  <p>
+    Es posible que tus datos se traten en países distintos al tuyo. Adoptaremos las medidas apropiadas para garantizar
+    un nivel de protección equivalente al exigido por la normativa aplicable.
+  </p>
+
+  <h2>7. Plazos de Conservación</h2>
+  <p>
+    Conservamos tus datos mientras mantengas tu cuenta activa y durante el tiempo necesario para cumplir obligaciones
+    legales y resolver posibles disputas. Cuando ya no sean necesarios, los eliminaremos o anonimizaremos.
+  </p>
+
+  <h2>8. Tus Derechos</h2>
+  <p>Puedes tener derecho a:</p>
+  <ul>
+    <li>Acceder a tus datos personales.</li>
+    <li>Rectificar datos inexactos o incompletos.</li>
+    <li>Solicitar la eliminación de tus datos cuando ya no sean necesarios o retires tu consentimiento.</li>
+    <li>Oponerte o solicitar la limitación del tratamiento en determinadas circunstancias.</li>
+    <li>Solicitar la portabilidad de tus datos.</li>
+  </ul>
+  <p>
+    Para ejercer tus derechos puedes escribir a:
+    <a href="mailto:contacto@ssdemo.app">contacto@ssdemo.app</a>.
+  </p>
+
+  <h2>9. Seguridad</h2>
+  <p>
+    Aplicamos medidas técnicas y organizativas razonables para proteger tus datos. Sin embargo, ningún sistema es
+    completamente seguro y no podemos garantizar una seguridad absoluta.
+  </p>
+
+  <h2>10. Menores de Edad</h2>
+  <p>
+    SSDemo no está dirigido a menores de 16 años. Si tenemos conocimiento de que hemos recopilado datos de un menor
+    sin el consentimiento adecuado, tomaremos medidas para eliminarlos.
+  </p>
+
+  <h2>11. Cookies y Tecnologías Similares</h2>
+  <p>
+    Podemos utilizar cookies o tecnologías similares para recordar tus preferencias y analizar el uso del Servicio.
+    Puedes configurar tu navegador para rechazar o eliminar cookies, aunque algunas funciones podrían verse afectadas.
+  </p>
+
+  <h2>12. Cambios en esta Política</h2>
+  <p>
+    Podemos actualizar esta Política de Privacidad. Publicaremos la versión actualizada en esta página indicando
+    la fecha de última actualización.
+  </p>
+
+  <h2>13. Contacto</h2>
+  <p>
+    Si tienes preguntas sobre esta Política de Privacidad, puedes escribirnos a:
+    <a href="mailto:contacto@ssdemo.app">contacto@ssdemo.app</a>.
+  </p>
+</body>
+</html>
